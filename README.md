@@ -36,9 +36,9 @@ The program runs a short demo (including an iceberg refill) and then the benchma
 
 | Metric | Latency |
 | --- | --- |
-| Median | XX ns |
-| p99 | XX ns |
-| Worst case | XX ms |
+| Median | 200 ns |
+| p99 | 2700 ns |
+| Worst case | 1.7017e+06 ms |
 
 *Measured on [your machine, e.g. "Intel i7, Windows 11, MinGW g++ 13"]. Results vary by hardware; the benchmark uses a fixed random seed so runs are repeatable.*
 
